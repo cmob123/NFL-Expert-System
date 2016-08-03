@@ -12,4 +12,6 @@ As noted in the header of each Java file, the program works like this:
 The results of running the program on the 2015 NFL season are stored in Results.docx. Overall, the system predicted about 80% of the games in the season correctly, making it the most accurate system in the class.
 Feel free to email me at cobrien3@mail.smcvt.edu with any questions on the development of this expert system.
 
+This application was written in February 2016 using an IDE called JGrasp.
+
 Enjoy!
